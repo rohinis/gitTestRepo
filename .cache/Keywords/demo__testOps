@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "B980A07437EBA6136864E5B0630F2307",
+  "keywordClasses": [
+    {
+      "name": "demo.testOps",
+      "keywordMethods": [
+        {
+          "name": "folderOps",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
